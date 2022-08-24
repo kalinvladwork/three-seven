@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-small-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons/gen/chevron-small-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-19.000000, -21.000000)">
+        <g id="chevron-small-down" transform="translate(19.000000, 21.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M8.418,0.859 C8.689,0.591 9.127,0.591 9.396,0.859 C9.666,1.127 9.668,1.56 9.396,1.828 L5.488,5.658 C5.218,5.926 4.781,5.926 4.509,5.658 L0.601,1.828 C0.331,1.561 0.331,1.127 0.601,0.859 C0.872,0.591 1.31,0.591 1.579,0.859 L5,4 L8.418,0.859 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="235" viewBox="0 0 320 235">
+    <defs>
+        <path id="b" d="M0 47.455h6.118v34.299H0z"/>
+        <filter id="a" width="328.8%" height="140.8%" x="-81.7%" y="-14.6%" filterUnits="objectBoundingBox">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.154268569 0"/>
+        </filter>
+        <path id="d" d="M64 47.455h6.118v34.299H64z"/>
+        <filter id="c" width="394.2%" height="149.6%" x="-220.7%" y="-19%" filterUnits="objectBoundingBox">
+            <feOffset dx="-5" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.154268569 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#079607" d="M0 0h320v235H0z"/>
+        <path fill="#17A711" d="M7.059 9.699h33.882v215.663H7.059zM142.588 9.699h33.882v215.663h-33.882zM210.353 9.699h33.882v215.663h-33.882zM278.118 9.699H312v215.663h-33.882zM74.824 9.699h33.882v215.663H74.824z"/>
+        <path stroke="#FFF" stroke-width="2" d="M8.059 10.699h303.882v214.133H8.059z" opacity=".4"/>
+        <path stroke="#FFF" stroke-width="2" d="M8.058 89.634H23.94v56.732H8.058z" opacity=".2"/>
+        <path stroke="#FFF" stroke-width="2" d="M8.058 54.395h51.647v126.74H8.058z" opacity=".2"/>
+        <g opacity=".4" transform="translate(1.882 53.395)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#C6E1A7" xlink:href="#b"/>
+        </g>
+        <path fill="#000" d="M1.882 135.15l8.236 4.698h5.647L8 135.15z" opacity=".1"/>
+        <path fill="#000" fill-opacity=".4" d="M8 135.15l7.53 4.698v-33.36L8 100.85z" opacity=".3"/>
+        <path stroke="#FFF" stroke-width="2" d="M60.47 97.561c7.844 6.108 11.765 13.548 11.765 22.318 0 8.771-3.921 16.524-11.764 23.258" opacity=".2"/>
+        <g>
+            <path stroke="#FFF" stroke-width="2" d="M296.058 89.634h15.882v56.732h-15.882z" opacity=".2"/>
+            <path stroke="#FFF" stroke-width="2" d="M260.294 54.395h51.647v126.74h-51.647z" opacity=".2"/>
+            <g opacity=".4" transform="translate(247.53 53.395)">
+                <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+                <use fill="#C6E1A7" xlink:href="#d"/>
+            </g>
+            <path fill="#000" d="M312.53 135.15l2.778 4.698h4.631l-2.593-4.698z" opacity=".1"/>
+            <path fill="#000" fill-opacity=".4" d="M317.647 135.15l2.353 4.698v-33.36l-2.353-5.638z" opacity=".3"/>
+            <path stroke="#FFF" stroke-width="2" d="M259.294 97.561c-7.843 6.108-11.765 13.548-11.765 22.318 0 8.771 3.765 16.445 11.295 23.023" opacity=".2"/>
+        </g>
+        <path fill="#FFF" d="M165.647 10.638h1v214.254h-1z" opacity=".2"/>
+        <ellipse cx="165.882" cy="116.121" stroke="#FFF" stroke-width="2" opacity=".2" rx="32.706" ry="32.655"/>
+    </g>
+</svg>

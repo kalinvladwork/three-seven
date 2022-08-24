@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <radialGradient id="a" cx="66.301%" cy="34.299%" r="69.61%" fx="66.301%" fy="34.299%">
+            <stop offset="6.753%" stop-color="#FFF799"/>
+            <stop offset="50%" stop-color="#FFDE00"/>
+            <stop offset="78.22%" stop-color="#FFC20E"/>
+            <stop offset="100%" stop-color="#FFF799"/>
+        </radialGradient>
+        <radialGradient id="b" cx="50.264%" cy="49.724%" r="49.847%" fx="50.264%" fy="49.724%">
+            <stop offset="0%" stop-color="#666"/>
+            <stop offset="100%"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="8" cy="8" r="8" fill="url(#a)"/>
+        <path fill="url(#b)" fill-rule="nonzero" d="M16 8.2c0-2-.7-3.8-1.7-5.1L14 4.4c-1.4-1-2.9-1.1-2.9-1.1H11L8.5.9s.4-.6.9-.6h.2l1.1.1C10.4.3 10 .2 9.6.1 9.2 0 8.5 0 8.5 0l.5.2c-.5.2-.7.6-.8.6l-.1.1-3.4 1.3h-.1s-.9-.2-1.9.2l.2-.4C2 2.8 1 3.9.6 5.1l1.7-2.2.2-.1c.9-.5 1.9-.3 1.9-.3l.1 3.4h-.1S3 7.1 2.2 9L0 8.1v.6c.1 2.2 1.3 4 2.7 5.4l1-.9c.1 0 1.4.7 3.6.9h.1L9.1 16s.7 0 1.8-.5c1-.4 1.9-1.1 2-1.2l.5-2.8.1-.1c1.2-.8 1.7-2.6 1.7-2.8l.6.1c.2-.2.2-.4.2-.5zm-8.5 5.5c-2.3-.1-3.5-.8-3.6-.8l-.1-.1-1.3-3.6.1-.1c.8-1.8 2.1-3 2.1-3h.1l3.8.8.1.1s.9 1.7 1.2 3.6v.1l-2.4 3zm6-2.6l-3.3-.4c-.3-2-1.2-3.8-1.3-3.8L11 3.7h.1c.1 0 1.4.1 2.8 1.1l.1.1 1.1 3.3v.3c0-.1-.4 1.8-1.6 2.6z"/>
+    </g>
+</svg>

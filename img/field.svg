@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="682" height="480" viewBox="0 0 682 480">
+    <defs>
+        <path id="b" d="M0 101h13v73H0z"/>
+        <filter id="a" width="207.7%" height="119.2%" x="-38.5%" y="-6.8%" filterUnits="objectBoundingBox">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.154268569 0"/>
+        </filter>
+        <path id="d" d="M136 101h13v73h-13z"/>
+        <filter id="c" width="238.5%" height="123.3%" x="-103.8%" y="-8.9%" filterUnits="objectBoundingBox">
+            <feOffset dx="-5" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.154268569 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#079607" d="M0 0h680v480H0z"/>
+        <path fill="#17A711" d="M15 10h72v459H15zM303 10h72v459h-72zM447 10h72v459h-72zM591 10h72v459h-72zM159 10h72v459h-72z"/>
+        <path stroke="#FFF" stroke-width="2" d="M16 11h648v458H16z" opacity=".4"/>
+        <path stroke="#FFF" stroke-width="2" d="M16 179h36v123H16z" opacity=".2"/>
+        <path stroke="#FFF" stroke-width="2" d="M16 104h112v272H16z" opacity=".2"/>
+        <g opacity=".4" transform="translate(4 103)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#C6E1A7" xlink:href="#b"/>
+        </g>
+        <path fill="#000" d="M4 277l17.5 10h12L17 277z" opacity=".1"/>
+        <path fill="#000" fill-opacity=".4" d="M17 277l16 10v-71l-16-12z" opacity=".3"/>
+        <path stroke="#FFF" stroke-width="2" d="M128.5 197c16.667 13 25 28.833 25 47.5s-8.333 35.167-25 49.5" opacity=".2"/>
+        <g>
+            <path stroke="#FFF" stroke-width="2" d="M628 179h36v123h-36z" opacity=".2"/>
+            <path stroke="#FFF" stroke-width="2" d="M552 104h112v272H552z" opacity=".2"/>
+            <g opacity=".4" transform="translate(526 103)">
+                <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+                <use fill="#C6E1A7" xlink:href="#d"/>
+            </g>
+            <path fill="#000" d="M662 277l7.5 10H682l-7-10z" opacity=".1"/>
+            <path fill="#000" fill-opacity=".4" d="M675 277l5 10v-71l-5-12z" opacity=".3"/>
+            <path stroke="#FFF" stroke-width="2" d="M551 197c-16.667 13-25 28.833-25 47.5s8 35 24 49" opacity=".2"/>
+        </g>
+        <path fill="#FFF" d="M352 12h2v456h-2z" opacity=".2"/>
+        <circle cx="352.5" cy="236.5" r="69.5" stroke="#FFF" stroke-width="2" opacity=".2"/>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <radialGradient id="a" cx="7.908%" cy="0%" r="133.607%" fx="7.908%" fy="0%" gradientTransform="scale(1 .6)">
+            <stop offset="0%" stop-color="#FFF799"/>
+            <stop offset="50%" stop-color="#FFDE00"/>
+            <stop offset="100%" stop-color="#FFC20E"/>
+        </radialGradient>
+        <radialGradient id="b" cx="0%" cy="0%" r="192.823%" fx="0%" fy="0%" gradientTransform="scale(1 .58017)">
+            <stop offset="0%" stop-color="#F58466"/>
+            <stop offset="50%" stop-color="#ED1C24"/>
+            <stop offset="100%" stop-color="#CE181F"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h16v16H0z"/>
+        <path fill="url(#a)" d="M10.064 15H2.336C2.168 15 2 14.825 2 14.65V1.35c0-.175.168-.35.336-.35h7.728c.168 0 .336.175.336.35v13.3c0 .175-.168.35-.336.35z" transform="rotate(-9 6.2 8)"/>
+        <path stroke="#FFCC08" stroke-width=".571" d="M11.067 14.027c.007-.001.042-.052.04-.071L9.025.82C9.023.8 8.974.763 8.966.764L1.333 1.973c-.007.001-.042.052-.04.071L3.375 15.18c.003.02.052.057.06.056l7.633-1.209h-.001z"/>
+        <g>
+            <path fill="url(#b)" d="M9.064 15H1.336C1.168 15 1 14.825 1 14.65V1.35c0-.175.168-.35.336-.35h7.728c.168 0 .336.175.336.35v13.3c0 .175-.168.35-.336.35z" transform="rotate(7 7.7 48.875)"/>
+            <path stroke="#E11B22" stroke-width=".571" d="M13.217 15.135c.007.001.055-.038.058-.058l1.62-13.2c.003-.02-.034-.07-.042-.07L7.183.865c-.007-.001-.055.038-.058.058l-1.62 13.2c-.003.02.034.07.042.07l7.67.942z"/>
+        </g>
+    </g>
+</svg>

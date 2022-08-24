@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <path id="a" d="M0 0h16v16H0z"/>
+        <radialGradient id="d" cx="0%" cy="-11.987%" r="133.607%" fx="0%" fy="-11.987%" gradientTransform="matrix(0 1 -.5625 0 -.067 -.12)">
+            <stop offset="0%" stop-color="#FFF799"/>
+            <stop offset="50%" stop-color="#FFDE00"/>
+            <stop offset="100%" stop-color="#FFC20E"/>
+        </radialGradient>
+        <path id="c" d="M11.039 0v2.155H5.974C2.68 2.155 0 4.893 0 8.26V9h1.984v-.74c0-2.247 1.79-4.077 3.99-4.077h5.065v2.155L16 3.296 11.039 0z"/>
+        <radialGradient id="f" cx="11.709%" cy="-4.688%" r="165.738%" fx="11.709%" fy="-4.688%" gradientTransform="scale(.5625 1) rotate(29.401 .163 .127)">
+            <stop offset="0%" stop-color="#F58466"/>
+            <stop offset="50%" stop-color="#ED1C24"/>
+            <stop offset="100%" stop-color="#CE181F"/>
+        </radialGradient>
+        <path id="e" d="M14.016 7v.74c0 2.248-1.79 4.077-3.99 4.077H4.961V9.662L0 12.704 4.961 16v-2.155h5.065C13.32 13.845 16 11.106 16 7.74V7h-1.984z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <g fill-rule="nonzero" mask="url(#b)">
+            <use fill="#FFC63A" xlink:href="#c"/>
+            <use fill="url(#d)" xlink:href="#c"/>
+        </g>
+        <g fill-rule="nonzero" mask="url(#b)">
+            <use fill="#E11B22" xlink:href="#e"/>
+            <use fill="url(#f)" xlink:href="#e"/>
+        </g>
+    </g>
+</svg>
